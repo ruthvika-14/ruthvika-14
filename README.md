@@ -18,10 +18,9 @@
 
 Here are some of my best contributions to open-source projects:
 
-- 🔷 [PR #2091](https://github.com/keras-team/keras-hub/pull/2091) - Added CSPNet architecture to KerasHub 🚀
-- 🔷 [PR #1775](https://github.com/keras-team/keras-hub/pull/1775) - Added DenseNet architecture to KerasHub 🚀
-- 🔷 [PR #1869](https://github.com/keras-team/keras-hub/pull/1869) - Added DeepLabV3 architecture to KerasHub 🚀
-- 🔷 [PR #1780](https://github.com/keras-team/keras-hub/pull/1780) - Added MixTransformer architecture to KerasHub 🚀
+- 🔷 [DenseNet backbone](https://github.com/keras-team/keras-hub/pulls) - Added DenseNet architecture to KerasHub 🚀
+- 🔷 [CSPNet backbone](https://github.com/keras-team/keras-hub/pulls) - Added CSPNet architecture to KerasHub 🚀
+- 🔷 [DeepLabV3 backbone](https://github.com/keras-team/keras-hub/pulls) - Added DeepLabV3 segmentation model to KerasHub 🚀
 
 ---
 
